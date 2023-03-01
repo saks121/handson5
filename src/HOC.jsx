@@ -1,5 +1,4 @@
-import React from 'react'
-import Comp2 from './Comp2'
+import React from 'react';
 
 export default function HOC(props) {
   return (

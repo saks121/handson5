@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import HOC from './HOC';
 import Comp1 from './Comp1';
